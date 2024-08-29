@@ -1,0 +1,7 @@
+		 Comandos de implementación en la bases de datos NoSQL		
+
+Para uso de la base de datos 
+	
+		*use miNuevaBaseDeDatos
+		*show collections
+		*db.books.insert()
